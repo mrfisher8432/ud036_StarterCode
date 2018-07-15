@@ -19,8 +19,8 @@ This project contains the following files:
 
 ## How to Run This Project
 
-Download the project zip file to your computer and unzip the file. Or clone this
-repository to your desktop.
+Download the project and unzip the file. Or you can clone this repository to your harddrive. Just make sure your python executable is in the same directory
+as the project contents are.
 
 Open the terminal program on your specified computer system.
 
