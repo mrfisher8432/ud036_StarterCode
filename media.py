@@ -1,18 +1,24 @@
 import webbrowser
 
+
 class Movie():
     '''
     Define the Movie class
     '''
 
-    def __init__(self, title, story_line, poster_image_url, trailer_youtube_url):
+    def __init__(self, title, story_line,
+                 poster_image_url, trailer_youtube_url):
         '''
         Initializes the Movie object
 
-        :param title: string that holds the title of the movie
-        :param story_line: string that holds description of the movie
-        :param poster_image_url: string that holds the url of the movie poster
-        :param trailer_youtube_url: string that holds the url of the movie trailer
+        :param title: string that holds the title
+        of the movie
+        :param story_line: string that holds
+        description of the movie
+        :param poster_image_url: string that holds
+        the url of the movie poster
+        :param trailer_youtube_url: string that
+        holds the url of the movie trailer
         '''
         self.title = title
         self.story_line = story_line
